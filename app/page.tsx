@@ -295,7 +295,7 @@ export default function ComingSoonPage() {
               >
                 <div className="flex items-center justify-center gap-3 mb-3">
                   <Calendar className="w-6 h-6" />
-                  <span className="text-lg font-semibold font-bengali">লঞ্চ তারিখ</span>
+                  <span className="text-lg font-semibold font-bengali">অপেক্ষার উন্মোচন</span>
                 </div>
                 <p className="text-2xl md:text-3xl font-bold font-bengali mb-2">২৫শে আগস্ট, ২০২৫</p>
               </motion.div>
@@ -312,7 +312,7 @@ export default function ComingSoonPage() {
             <div className="bg-white/80 backdrop-blur-md rounded-3xl p-8 shadow-2xl border border-[#EADBC8]/50">
               <div className="flex items-center justify-center gap-3 mb-8">
                 <Clock className="w-8 h-8 text-[#8B5E3C]" />
-                <h3 className="text-2xl md:text-3xl font-bold text-[#4A2F19] font-bengali">সময় বাকি </h3>
+                <h3 className="text-2xl md:text-3xl font-bold text-[#4A2F19] font-bengali">অবশিষ্ট প্রহর</h3>
               </div>
 
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
