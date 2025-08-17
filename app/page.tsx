@@ -605,7 +605,7 @@ export default function ComingSoonPage() {
           >
             <p className="text-[#8B5E3C] text-lg font-bengali mb-2">সাহিত্যের নতুন যাত্রায় আমাদের সাথে থাকুন</p>
             <div className="text-sm text-[#4A2F19] space-y-1">
-              <div>© 2025 Turya Sarkar. All rights reserved.</div>
+              <div>© 2025 Turyasahityangon. All rights reserved.</div>
               <div>Designed & Developed by Sujan Das</div>
             </div>
           </motion.div>
