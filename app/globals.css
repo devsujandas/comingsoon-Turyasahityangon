@@ -1,5 +1,8 @@
-@import "tailwindcss";
-@import "tw-animate-css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Removed invalid tw-animate-css import that was causing build error */
 
 @custom-variant dark (&:is(.dark *));
 
