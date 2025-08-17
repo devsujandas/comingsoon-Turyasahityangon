@@ -1,14 +1,10 @@
 <h1 align="center">তুর্য সাহিত্যাঙ্গন</h1>
 
-
-
 **Turyasahityangon** — a digital literary space where poetry, prose, and creative thoughts find their true expression.  
 A home for words, stories, and imagination.  
 
 **তুর্য সাহিত্যাঙ্গন** — শব্দের আলোয় জাগে আসল অনুভব, গল্পে খুঁজে পাওয়া যায় বাসা।  
-এখানে সাহিত্য শুধু লেখা নয়, অনুভূতির সংগীত।
-
-
+এখানে সাহিত্য শুধু লেখা নয়, অনুভূতির সংগীত।  
 
 ---
 
